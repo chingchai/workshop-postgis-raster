@@ -600,3 +600,6 @@ USING gist (ST_ConvexHull(rast));
 ```sql
 SELECT AddRasterConstraints('schema_name'::name, 'tpi30_porto'::name,'rast'::name);
 ```
+## Link
+- https://www.crunchydata.com/blog/postgres-raster-query-basics
+- https://www.crunchydata.com/blog/postgis-raster-and-crunchy-bridge
