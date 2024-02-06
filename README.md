@@ -603,3 +603,4 @@ SELECT AddRasterConstraints('schema_name'::name, 'tpi30_porto'::name,'rast'::nam
 ## Link
 - https://www.crunchydata.com/blog/postgres-raster-query-basics
 - https://www.crunchydata.com/blog/postgis-raster-and-crunchy-bridge
+- http://og.cens.am:8081/opengeo-docs/dataadmin/pgDBAdmin/index.html
